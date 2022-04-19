@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91112611790",
+    "project_id": "tijolojolo-delivery",
+    "storage_bucket": "tijolojolo-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91112611790:android:c77b3502d2b8250dc2159f",
+        "android_client_info": {
+          "package_name": "io.cloutdevelopers.tijolojolo_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91112611790-ep4j41u0pkdqadl4pvgt2il8dc9a3kkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.cloutdevelopers.tijolojolo_delivery",
+            "certificate_hash": "4a63f902165e7aa60391e1fea22b1c060e119879"
+          }
+        },
+        {
+          "client_id": "91112611790-fupjb2uubcmridkh8ssbabgq21ofd324.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9asBmHb9FA7LRuwVPa2zAxFRkChl9Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91112611790-fupjb2uubcmridkh8ssbabgq21ofd324.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
